@@ -1,0 +1,7 @@
+1. Download the dataset from the given link:
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+2. Extract the .zip file to get the creditcard.csv file
+
+3. Place the creditcard.csv file without changing its name in the same folder as that of the CreditCardFraudDetection.py (or .ipynb) file
